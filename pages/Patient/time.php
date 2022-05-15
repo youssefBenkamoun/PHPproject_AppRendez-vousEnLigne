@@ -34,7 +34,7 @@ if ($_SESSION["user"]) {
 
 
   
-  $con = mysqli_connect("localhost","root","","hopital");
+  $con = mysqli_connect("sql5.freesqldatabase.com","sql5492464","ldaFvu21d8","sql5492464");
 
   $sql = "SELECT * FROM `specialite`";
   $all_categories1 = mysqli_query($con,$sql);
