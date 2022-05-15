@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/MAYdocF/script/edit.js</file>
+            <file>file:/C:/xampp/htdocs/MAYdocF/services/MedecinService.php</file>
+            <file>file:/C:/xampp/htdocs/MAYdocF/services/timeService.php</file>
+            <file>file:/C:/xampp/htdocs/MAYdocF/pages/Patient/PatientProfile.php</file>
+            <file>file:/C:/xampp/htdocs/MAYdocF/services/PatientService.php</file>
+            <file>file:/C:/xampp/htdocs/MAYdocF/listeNoir.php</file>
+            <file>file:/C:/xampp/htdocs/MAYdocF/pages/Patient/RendezVousValider.php</file>
+            <file>file:/C:/xampp/htdocs/MAYdocF/controller/gestionRendezVous.php</file>
+            <file>file:/C:/xampp/htdocs/MAYdocF/beans/Medecin.php</file>
+            <file>file:/C:/xampp/htdocs/MAYdocF/medecin-profile.php</file>
+            <file>file:/C:/xampp/htdocs/MAYdocF/admin.php</file>
+            <file>file:/C:/xampp/htdocs/MAYdocF/beans/Time.php</file>
+            <file>file:/C:/xampp/htdocs/MAYdocF/script/users-profile.js</file>
+            <file>file:/C:/xampp/htdocs/MAYdocF/admin-profile.php</file>
+            <file>file:/C:/xampp/htdocs/MAYdocF/services/others/PatientService.php</file>
+            <file>file:/C:/xampp/htdocs/MAYdocF/script/historique.js</file>
+            <file>file:/C:/xampp/htdocs/MAYdocF/Ajouter-docteur.php</file>
+            <file>file:/C:/xampp/htdocs/MAYdocF/service.php</file>
+            <file>file:/C:/xampp/htdocs/MAYdocF/services/AdminService.php</file>
+            <file>file:/C:/xampp/htdocs/MAYdocF/services/RendezVousService.php</file>
+            <file>file:/C:/xampp/htdocs/MAYdocF/pages/Patient/PatientAcceuil.php</file>
+            <file>file:/C:/xampp/htdocs/MAYdocF/users-profile.php</file>
+            <file>file:/C:/xampp/htdocs/MAYdocF/script/main.js</file>
+            <file>file:/C:/xampp/htdocs/MAYdocF/index.php</file>
+            <file>file:/C:/xampp/htdocs/MAYdocF/tables.php</file>
+            <file>file:/C:/xampp/htdocs/MAYdocF/pages/Patient/banne.php</file>
+            <file>file:/C:/xampp/htdocs/MAYdocF/script/spec.js</file>
+            <file>file:/C:/xampp/htdocs/MAYdocF/controller/CreateMedecin.php</file>
+            <file>file:/C:/xampp/htdocs/MAYdocF/script/tables.js</file>
+            <file>file:/C:/xampp/htdocs/MAYdocF/script/index.js</file>
+            <file>file:/C:/xampp/htdocs/MAYdocF/controller/gestionMedecin.php</file>
+            <file>file:/C:/xampp/htdocs/MAYdocF/controller/CreateUserMedecin.php</file>
+            <file>file:/C:/xampp/htdocs/MAYdocF/script/medecin.js</file>
+            <file>file:/C:/xampp/htdocs/MAYdocF/script/employe.js</file>
+            <file>file:/C:/xampp/htdocs/MAYdocF/login.php</file>
+            <file>file:/C:/xampp/htdocs/MAYdocF/script/departement.js</file>
+            <file>file:/C:/xampp/htdocs/MAYdocF/script/bootstrap.min.js</file>
+            <file>file:/C:/xampp/htdocs/MAYdocF/specialite.php</file>
+        </group>
+    </open-files>
+</project-private>
