@@ -22,7 +22,7 @@ echo $_GET['id'];
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Users Template</title>
+  <title>Users Profil</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 

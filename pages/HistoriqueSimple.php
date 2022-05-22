@@ -18,7 +18,7 @@ $a = json_decode($e);
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
         <!-- Title Page-->
-        <title>Gestion de pointage</title>
+        <title>MAYdoc</title>
 
         <!-- Fontfaces CSS-->
         <link href="style/font-face.css" rel="stylesheet" media="all">

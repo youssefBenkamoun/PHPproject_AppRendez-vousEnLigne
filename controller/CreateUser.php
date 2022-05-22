@@ -5,10 +5,10 @@ include_once RACINE.'/beans/user.php';
 extract($_POST);
 
 
-$host = 'sql5.freesqldatabase.com';
-$dbname = 'sql5492464';
-$login = 'sql5492464';
-$password = 'ldaFvu21d8';
+$host = 'sql11.freesqldatabase.com';
+$dbname = 'sql11494328';
+$login = 'sql11494328';
+$password = 'abTwH9LtYT';
 
 
 try {
